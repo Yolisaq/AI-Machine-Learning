@@ -48,4 +48,4 @@ This project uses machine learning to identify **high-risk regions** for mental 
 ## 🧩 How to Run
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/mental-illness-ml.git
+git clone https://github.com/Yolisaq/AI-Machine-Learning.git
